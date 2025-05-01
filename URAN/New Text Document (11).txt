@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Company's History</title>
+<link rel="stylesheet" href="sti3.css">
+
+<link rel="stylesheet" href="styles1.css">
+<link rel="icon" href="icon.png" type="x-icon">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+<body>
+
+<div class="header">
+  <h1 class="klio">Şirkətin Tarixi</h1>
+    <a href="#" class="btton">Şirkətin Tarixi</a>
+  <a href="#" class="button">Əşyalar </a>
+  <a href="#" class="button">Əsas Səhifə </a>
+      <a href="#" class="button">Binalarımız</a>
+  <a href="#" class="button">Əlaqə saxlayın</a>
+
+</div>
+
+<div class="row">
+  <div class="col-3 col-s-3 menu">
+    <ul>
+      <li>Dillər</li>
+            <a href="#" class="buton">English </a>
+            <a href="#" class="buton">Azərbaycan dili </a>
+    </ul>
+  </div>
+
+  <div class="col-6 col-s-9">
+    <h1>Şirkətin Tarixi</h1>
+    <p>2022-ci ildə əsası qoyulan Uran İnşaat tez bir zamanda tikinti və infrastruktur sektorunda etibarlı bir ad olaraq özünü təsdiq etdi. Kiçik yaşayış layihələrindən başlayaraq, şirkət keyfiyyətli sənətkarlıq, detallara diqqət və etibarlılıq üçün bir reputasiya qurdu. Bu illər ərzində Uran İnşaat öz xidmətlərini kommersiya inkişafları, irimiqyaslı infrastruktur layihələri və innovativ tikinti həlləri daxil olmaqla genişləndirdi. Davamlılığa və müasir mühəndislik təcrübələrinə diqqət yetirərək, Uran Construction icmaları formalaşdıran və tərəqqiyə təkan verən layihələr həyata keçirərək, hörmətli sənaye liderinə çevrildi.</p>
+    
+
+  </div>
+
+  <div class="col-3 col-s-12">
+    <div class="aside">
+<img src="https://i.imgur.com/01XQ8aS.png" alt="Uran" width="300" height="300">
+    </div>
+  </div>
+</div>
+
+<div class="footer">
+  <p>by Uran Construction</p>
+</div>
+
+</body>
+</html>
+
+
